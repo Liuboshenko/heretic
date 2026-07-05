@@ -23,3 +23,5 @@ wheels/
 
 # Residual plots
 /plots/
+
+venv3.12
