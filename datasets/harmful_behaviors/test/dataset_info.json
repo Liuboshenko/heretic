@@ -1,0 +1,38 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "harmful_behaviors",
+  "dataset_size": 40044,
+  "description": "",
+  "download_size": 20481,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 60525,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 32107,
+      "num_examples": 416,
+      "dataset_name": "harmful_behaviors"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 7937,
+      "num_examples": 104,
+      "dataset_name": "harmful_behaviors"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

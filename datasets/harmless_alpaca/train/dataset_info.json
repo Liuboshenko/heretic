@@ -1,0 +1,38 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "harmless_alpaca",
+  "dataset_size": 1987533,
+  "description": "",
+  "download_size": 1215139,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 3202672,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1589987,
+      "num_examples": 25058,
+      "dataset_name": "harmless_alpaca"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 397546,
+      "num_examples": 6265,
+      "dataset_name": "harmless_alpaca"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
